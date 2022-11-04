@@ -46,7 +46,6 @@ include $(PJSIP)/build.mak
 #*****START OF FLAGS*****
 
 
-
 #---WARNING FLAGS--- (-W<flag name>)
 
 WFLAGS	:=
