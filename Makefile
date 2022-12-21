@@ -35,7 +35,7 @@ CC	:=	g++
 
 #*****START OF USER DATA*****
 
-PJSIP := /home/amit/Documents/Libaries/pjproject/
+PJSIP := /home/amit/Documents/Libraries/pjproject/
 include $(PJSIP)/build.mak
 
 
